@@ -1,0 +1,25 @@
+{
+  "name": "juego_truco_argentino",
+  "version": "1.0.0",
+  "description": "Una aplicacion, como a futuro como programa web para que se pueda hacer tanto en web como descargarla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6enThiago/Juego_Truco_Argentino.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/6enThiago/Juego_Truco_Argentino/issues"
+  },
+  "homepage": "https://github.com/6enThiago/Juego_Truco_Argentino#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  }
+}
